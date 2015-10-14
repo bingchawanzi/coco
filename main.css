@@ -1,0 +1,10 @@
+body{
+	background-color: #DAD8D8;
+	color:#363434;
+	font-size: 12px;
+	font-family: "微软雅黑";
+	padding:10px 20px;
+}
+header{
+	border-bottom: 1px solid #828181;
+}
